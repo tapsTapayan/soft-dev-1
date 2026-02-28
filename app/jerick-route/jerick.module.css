@@ -1,0 +1,6 @@
+.flexcontainer {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  height: 200px;           /* Needs a height to show vertical centering */
+}
